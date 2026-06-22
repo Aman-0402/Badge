@@ -1,4 +1,5 @@
 # GitHub Achievements Roadmap — Aman's Progress
+<!-- Co-authored with Pallavi Kumari -->
 
 ## Badges & How to Unlock
 
